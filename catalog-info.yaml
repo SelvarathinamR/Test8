@@ -1,0 +1,60 @@
+apiVersion: backstage.io/v1alpha1
+kind: Product
+metadata:
+  name: Test8
+  annotations:
+    confluence/page: Test8
+    createdBy: admin
+    createdFrom: Created from Backstage
+    createdAt: Thu Jun 20 2024 10:34:33 GMT+0530 (India Standard Time)
+    updatedFrom: ''
+    lastUpdatedAt: ''
+spec:
+  type: service
+  owner: guest
+  lifecycle: experimental
+  version: Test8
+  projectInfo:
+    projectName: Test8
+    moduleName: ''
+    informationAuthor: ''
+    modality: ''
+    bodyParts: ''
+    processingPurpose: ''
+    protocol: ''
+    algorithmType: ''
+    packageType: ''
+    supportedOs: ''
+    sourceCodeLanguage: ''
+    developmentStatus: ''
+    linkToProject: ''
+  applicationInfo:
+    linkAPI: ''
+    inputImages: ''
+    inputValues: ''
+    outputImages: ''
+    outputValues: ''
+    limitations: ''
+    algorithmDevelopmentCompany: ''
+  productization:
+    productizedApplication: ''
+    function: ''
+    productizedOwner: ''
+    releaseNotes: ''
+    knowIssues: ''
+  evaluationInformation:
+    evaluationResults: ''
+    evaluationType: ''
+    clinicalData: ''
+  algorithmInformation:
+    developmentPurpose: ''
+    developmentStatus: ''
+    algorithmDevelopmentCompany: ''
+    personinCharge: ''
+    collaborativeResearchPartner: ''
+    existenceofExternalIP: ''
+  technologyInformationforCMRE:
+    fundingProject: ''
+    group: ''
+    TRL: ''
+    projectStatus: ''
